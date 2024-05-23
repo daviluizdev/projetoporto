@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #040043;
+}
+
+.player {
+    background-color: #075c68; 
+    text-align: center;
+}
+
+.img {
+    width: 100%;
+  
+    height: auto;
+    
+}
+
+.info h4 {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.info h4 {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+audio {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.controles {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.controles button {
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #c54242;
+
+}
